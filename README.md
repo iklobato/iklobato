@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ik Lobato (@iklobato)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iklobato&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/henriquelobato/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iklobato-sr-python/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:h.lobato001@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/iklobato)
 

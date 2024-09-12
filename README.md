@@ -17,6 +17,20 @@
 
 ---
 
+🚀 Current Project: **LightAPI**
+I'm excited to be developing a new Python API framework called LightAPI. This framework aims to simplify and enhance the process of building scalable and efficient APIs with Python. LightAPI focuses on providing an intuitive and flexible interface for rapid development, while integrating essential features for performance and security out-of-the-box.
+
+**Key Features:**
+- 🌟 Modular Design: Build your APIs with a flexible and extensible architecture. LightAPI’s modular components allow you to customize and extend functionality to meet your specific needs.
+- ⚡ Performance Optimization: Enjoy high performance with built-in optimizations. LightAPI is engineered to handle high loads efficiently, ensuring your APIs run smoothly even under heavy traffic.
+- 🔒 Security First: Protect your API and data with default security measures. LightAPI includes essential security features to safeguard against common vulnerabilities and threats.
+- 🔗 Easy Integration: Seamlessly integrate with existing Python libraries and frameworks. LightAPI is designed to work well with popular tools and technologies, making it easy to incorporate into your existing stack.
+- 🔧 Developer-Friendly: Streamline your development process with intuitive interfaces and clear documentation. LightAPI is crafted to enhance productivity and simplify API development.
+
+Feel free to check out the [LightAPI](https://github.com/henriqueblobato/LightAPI) repository for more details and contribute to the project. I'm looking forward to feedback and collaboration!
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 - **Languages & Frameworks:**

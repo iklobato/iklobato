@@ -17,7 +17,8 @@
 
 ---
 
-🚀 Current Project: **LightAPI**
+### 🚀 Current Project:
+**LightAPI**
 I'm excited to be developing a new Python API framework called LightAPI. This framework aims to simplify and enhance the process of building scalable and efficient APIs with Python. LightAPI focuses on providing an intuitive and flexible interface for rapid development, while integrating essential features for performance and security out-of-the-box.
 
 **Key Features:**

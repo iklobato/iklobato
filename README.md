@@ -64,6 +64,11 @@ Feel free to check out the [LightAPI](https://github.com/henriqueblobato/LightAP
 
 Over the years, I have contributed to various industries by applying advanced Python development techniques, cloud infrastructure, and data-centric solutions. Below are detailed examples of my work across several domains:
 
+- **Financial Technology:**
+    - **Project:** *AssetX - Predictive Financial Insights*  
+      AssetX is a financial AI company that leverages stock market data to predict trends and provide actionable financial insights. I contributed to developing their AI-driven analytics platform, which processes large-scale stock data using machine learning models to generate predictions and insights for financial markets. The system is built with Python, integrates cloud services for scalability, and uses Kubernetes for seamless orchestration. AssetX’s platform empowers investors with data-backed financial decision-making tools, enhancing accuracy and reducing market risks.
+      ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
 - **Information Security:**
     - **Project:** *Chatbot Integration for Security Scores*  
       Developed an AI-driven chatbot leveraging Langchain and FastAPI, deployed in a cloud environment. Integrated Large Language Models (LLMs) for natural language processing, enabling users to query security scores in real-time. Implemented CI/CD pipelines using Jenkins for automated deployment of Dockerized applications on AWS, ensuring secure, scalable, and resilient systems. Utilized Terraform for infrastructure as code, ensuring consistent and repeatable deployments.  

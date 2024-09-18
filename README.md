@@ -31,7 +31,7 @@ I'm excited to be developing a new Python API framework called LightAPI. This fr
 Feel free to check out the [LightAPI](https://github.com/henriqueblobato/LightAPI) repository for more details and contribute to the project. I'm looking forward to feedback and collaboration!
 
 ---
-
+<!---
 ### 🛠 Tech Stack & Tools
 
 | **Languages & Frameworks** |  |
@@ -56,9 +56,8 @@ Feel free to check out the [LightAPI](https://github.com/henriqueblobato/LightAP
 | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) |
 | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) | ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest) |
 
-
-
 ---
+-->
 
 ### 🏭 Industries & Technical Contributions
 

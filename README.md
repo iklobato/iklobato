@@ -4,9 +4,9 @@
 
 **Senior Python Developer & Cloud Architect** | API Engineer | ML Integration Specialist
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iklobato-sr-python/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iklobato/)
 [![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://iklobato.com)
-[![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:h.lobato001@gmail.com)
+[![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iklobato@proton.me)
 [![Telegram](https://img.shields.io/badge/-Message%20on%20Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/iklobato)
 [![Calendar](https://img.shields.io/badge/-Schedule%20a%20Call-4285F4?style=flat-square&logo=google-calendar&logoColor=white)](https://calendly.com/hlobato/lets-talk)
 
@@ -143,7 +143,7 @@ I offer tailored expertise in multiple technical domains. View my specialized re
   
 Available for freelance projects, consulting, and technical advisory roles. Let's build something extraordinary!
 
-[![Email](https://img.shields.io/badge/-h.lobato001@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:h.lobato001@gmail.com)
+[![Email](https://img.shields.io/badge/-iklobato@proton.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iklobato@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-Henrique_Lobato-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iklobato-sr-python/)
 [![Telegram](https://img.shields.io/badge/-@iklobato-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/iklobato)
 [![Schedule a Call](https://img.shields.io/badge/-Schedule_a_Call-4285F4?style=flat-square&logo=google-calendar&logoColor=white)](https://calendly.com/hlobato/lets-talk)
